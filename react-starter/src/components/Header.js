@@ -1,9 +1,8 @@
 import '../styles/Header.css'
 import '../styles/index.css'
 
-
-function Header() {
-    return(
+const Header = () => {
+    return (
         <div className="header">
             <header>
                 <h1>Hello! My name is Jeanette Ralph.</h1>
