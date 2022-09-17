@@ -3,7 +3,7 @@ import React from 'react';
 // import Footer from './components/Footer';
 import Header from './components/Header';
 import Navigation from './components/Navigation';
-// import Project from './components/Project';
+import Project from './components/Project';
 
 import './styles/index.css'
 
@@ -15,7 +15,9 @@ function App() {
       <Navigation />
     </div>
     <div className="body">
-      <div>whatever</div>
+      <div>
+      <Project />
+      </div>
     </div>
     </div>
   );
