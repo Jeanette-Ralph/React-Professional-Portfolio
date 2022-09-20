@@ -62,3 +62,8 @@ body {
     max-height: 600px;
     padding: 30px;
 }
+
+.footer-div {
+    background-color: #9C90FA;
+    display: flex;
+}
