@@ -15,7 +15,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/Jeanette-Ralph/React-Professional-Portfolio#readme",
+  "homepage": "https://github.com/Jeanette-Ralph/React-Professional-Portfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
