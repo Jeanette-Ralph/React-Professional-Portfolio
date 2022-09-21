@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jeanette-Ralph/React-Professional-Portfolio/issues"
+    "url": "https://github.com/Jeanette-Ralph/React-Professional-Portfolio"
   },
-  "homepage": "https://github.com/Jeanette-Ralph/React-Professional-Portfolio#readme",
+  "homepage": "https://github.com/Jeanette-Ralph/React-Professional-Portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
@@ -27,7 +27,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
