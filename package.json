@@ -4,14 +4,14 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jeanette-Ralph/React-Professional-Portfolio.git"
+    "url": "git+https://jeanette-ralph.github.io/React-Professional-Portfolio/.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jeanette-Ralph/React-Professional-Portfolio"
+    "url": "https://jeanette-ralph.github.io/React-Professional-Portfolio/"
   },
-  "homepage": "https://github.com/Jeanette-Ralph/React-Professional-Portfolio",
+  "homepage": "https://jeanette-ralph.github.io/React-Professional-Portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
