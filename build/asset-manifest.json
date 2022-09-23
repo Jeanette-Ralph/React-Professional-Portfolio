@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jeanette-Ralph/React-Professional-Portfolio/static/css/main.926de688.css",
+    "main.js": "/Jeanette-Ralph/React-Professional-Portfolio/static/js/main.2854ba6a.js",
+    "index.html": "/Jeanette-Ralph/React-Professional-Portfolio/index.html",
+    "main.926de688.css.map": "/Jeanette-Ralph/React-Professional-Portfolio/static/css/main.926de688.css.map",
+    "main.2854ba6a.js.map": "/Jeanette-Ralph/React-Professional-Portfolio/static/js/main.2854ba6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.926de688.css",
+    "static/js/main.2854ba6a.js"
+  ]
+}
