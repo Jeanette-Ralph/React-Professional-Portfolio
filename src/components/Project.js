@@ -1,20 +1,19 @@
 import ProjectItems from "./ProjectList";
 
 const Projects = () => {
-    return (
-        <div className="projects">
-
-            {ProjectItems.map((item, index) => {
-                return (
-                    <div key={index}>
-                        <h1>{item.title}</h1>
-                        <img alt='project' src={item?.imgURL}></img>
-                    </div>
-                )
-            })
-            }
-        </div>
-    )
-}
+  return (
+    <div className="projects">
+      {ProjectItems.map((item, index) => {
+        return (
+          <div key={index}>
+            <h1>{item.title}</h1>
+            <img alt="project" src={item?.imgURL}></img>
+            <h2>{item.description}</h2>
+          </div>
+        );
+      })}
+    </div>
+  );
+};
 
 export default Projects;
