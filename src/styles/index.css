@@ -99,7 +99,7 @@ body {
 .skills {
     display: flex;
     flex-direction: row;
-   
+    flex-wrap: wrap;
 }
 
 .skills img {
@@ -112,19 +112,19 @@ body {
 
 
 .footer-div {
-    background-color: #9C90FA;
     display: flex;
-    padding: 50px;
     text-align: center;
     justify-content: center;
 }
 
-.footer-div h1 {
-    font-size: 60px;
-}
 
 .footer-contact {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+}
+
+.footer-contact a {
+    padding: 40px;
+    
 }
