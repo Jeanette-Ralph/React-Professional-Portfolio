@@ -17,6 +17,7 @@ const reactLogo = require("./react.png");
 const nodeLogo = require("./node.png");
 const pythonLogo = require("./python.png");
 const gitLogo = require("./github.png");
+const graphLogo = require("./graphql.png");
 
 module.exports = {
   project1,
@@ -33,4 +34,5 @@ module.exports = {
   nodeLogo,
   pythonLogo,
   gitLogo,
+  graphLogo,
 };

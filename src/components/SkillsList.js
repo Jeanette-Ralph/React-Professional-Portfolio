@@ -9,6 +9,7 @@ import {
   nodeLogo,
   pythonLogo,
   gitLogo,
+  graphLogo,
 } from "../images/index";
 
 const SkillsItems = [
@@ -50,6 +51,10 @@ const SkillsItems = [
 
   {
     imgURL: gitLogo,
+  },
+
+  {
+    imgURL: graphLogo,
   },
 ];
 
