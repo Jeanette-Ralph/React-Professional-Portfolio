@@ -1,7 +1,9 @@
 body {
     height: 100%;
     margin: 0;
-    padding: 0
+    padding: 0;
+    user-select:none;
+    scroll-behavior:smooth;
 }
 
 * {
@@ -109,7 +111,6 @@ ul {
     width: 100%;
     justify-content: space-between;
     align-items: flex-end;
- 
     align-content: flex-end;
 }
 
@@ -118,17 +119,25 @@ ul {
     background-color: #edc7cf;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     margin: auto;
+}
+
+.project {
+    width: 30%;
 }
 
 .projects img {
     border-radius: 50px;
-    justify-content: center;
-    height: 100%;
+    height: auto;
     width: 100%;
-    padding: 30px;
-   
+}
+
+.image-wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
 }
 
 .skills {

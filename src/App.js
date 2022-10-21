@@ -1,4 +1,5 @@
 import React from "react";
+import * as Scroll from "react-scroll";
 
 import Footer from "./components/Footer";
 import Header from "./components/Header";
@@ -17,18 +18,18 @@ function App() {
         <Navigation />
       </div>
 
-      <div className="about">
+      <div id="about" className="about">
         <About />
       </div>
       <div className="body">
-        <div>
+        <div id="portfolio">
           <Project />
         </div>
       </div>
-      <div className="skills-div">
+      <div id="skills" className="skills-div">
         <Skills />
       </div>
-      <div className="footer-div">
+      <div id="contact" className="footer-div">
         <Footer />
       </div>
     </div>

@@ -1,5 +1,6 @@
 import NavItems from "./NavItems";
 import "../styles/index.css";
+import Scrollspy from "react-scrollspy";
 
 const Navigation = () => {
   return (
@@ -8,11 +9,16 @@ const Navigation = () => {
       <ul className="navbar-ul">
         {NavItems.map((item, index) => {
           return (
-            <li key={index}>
-              <a className={item.cName} href={item.url}>
-                <button className="button-87 ">{item.title}</button>
-              </a>
-            </li>
+            <Scrollspy
+              items={["about", "portfolio", "skills", "contact"]}
+              currentClassName="active"
+            >
+              <li key={index}>
+                <a className={item.cName} href={item.url}>
+                  <button className="button-87 ">{item.title}</button>
+                </a>
+              </li>
+            </Scrollspy>
           );
         })}
       </ul>
