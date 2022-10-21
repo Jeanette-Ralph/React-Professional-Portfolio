@@ -3,8 +3,8 @@ import SkillsItems from "./SkillsList";
 const Skills = () => {
   return (
     <div>
-      <h1 className="skills-header">Skills</h1>
       <div className="skills">
+        {/* <h1 className="skills-header">Skills</h1> */}
         {SkillsItems.map((item, index) => {
           return (
             <div key={index}>

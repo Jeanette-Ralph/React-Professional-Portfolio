@@ -12,6 +12,12 @@ const NavItems = [
   },
 
   {
+    title: "Skills",
+    url: "#skills",
+    cName: "nav-options",
+  },
+
+  {
     title: "Contact",
     url: "#contact",
     cName: "nav-options",

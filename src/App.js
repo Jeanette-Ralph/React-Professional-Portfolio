@@ -16,6 +16,7 @@ function App() {
         <Header />
         <Navigation />
       </div>
+
       <div className="about">
         <About />
       </div>

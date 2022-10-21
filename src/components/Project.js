@@ -7,8 +7,8 @@ const Projects = () => {
         return (
           <div key={index}>
             <h1>{item.title}</h1>
-            <img alt="project" src={item?.imgURL}></img>
             <h2>{item.description}</h2>
+            <img alt="project" src={item?.imgURL}></img>
           </div>
         );
       })}

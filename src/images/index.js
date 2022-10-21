@@ -4,7 +4,7 @@ const project2 = require("./project2.jpeg");
 const project3 = require("./project3.jpeg");
 
 // profile pic
-const profile = require("./about1.jpg");
+const profile = require("./pic.jpeg");
 
 // for skills section
 const htmlLogo = require("./html.png");
@@ -18,6 +18,7 @@ const nodeLogo = require("./node.png");
 const pythonLogo = require("./python.png");
 const gitLogo = require("./github.png");
 const graphLogo = require("./graphql.png");
+const bootstrapLogo = require("./bootstrap.png");
 
 module.exports = {
   project1,
@@ -35,4 +36,5 @@ module.exports = {
   pythonLogo,
   gitLogo,
   graphLogo,
+  bootstrapLogo,
 };
