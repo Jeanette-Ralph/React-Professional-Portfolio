@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/React-Professional-Portfolio/static/css/main.926de688.css",
-    "main.js": "/React-Professional-Portfolio/static/js/main.2854ba6a.js",
+    "main.css": "/React-Professional-Portfolio/static/css/main.9c8793f6.css",
+    "main.js": "/React-Professional-Portfolio/static/js/main.c2ab11cf.js",
+    "static/media/project1.jpeg": "/React-Professional-Portfolio/static/media/project1.35aaad034de3852395f2.jpeg",
+    "static/media/project2.jpeg": "/React-Professional-Portfolio/static/media/project2.c9014844577b194baf7e.jpeg",
+    "static/media/project3.jpeg": "/React-Professional-Portfolio/static/media/project3.cd51e710a8b86972dcd6.jpeg",
+    "static/media/mysql.png": "/React-Professional-Portfolio/static/media/mysql.ef238c26ec64482ce26d.png",
+    "static/media/pic.jpeg": "/React-Professional-Portfolio/static/media/pic.93d41f480148cc2792fe.jpeg",
+    "static/media/html.png": "/React-Professional-Portfolio/static/media/html.0b76f44049eeb2682736.png",
+    "static/media/bootstrap.png": "/React-Professional-Portfolio/static/media/bootstrap.36241e83375e5009aaeb.png",
+    "static/media/python.png": "/React-Professional-Portfolio/static/media/python.885413eaf5e7288ad073.png",
+    "static/media/graphql.png": "/React-Professional-Portfolio/static/media/graphql.971205269f3fda4bc54d.png",
+    "static/media/css.png": "/React-Professional-Portfolio/static/media/css.1334cb45a7d5ad096543.png",
+    "static/media/node.png": "/React-Professional-Portfolio/static/media/node.e71346fe0fec16ec5f6e.png",
+    "static/media/express.png": "/React-Professional-Portfolio/static/media/express.04e4743fbd704db71ed7.png",
+    "static/media/github.png": "/React-Professional-Portfolio/static/media/github.69ffd9cd5a846c976177.png",
+    "static/media/react.png": "/React-Professional-Portfolio/static/media/react.cd4ab68456d5875b788e.png",
+    "static/media/mongodb.png": "/React-Professional-Portfolio/static/media/mongodb.c964002ecef4971216d0.png",
+    "static/media/js.png": "/React-Professional-Portfolio/static/media/js.8618298aa7a3f221cfc1.png",
     "index.html": "/React-Professional-Portfolio/index.html",
-    "main.926de688.css.map": "/React-Professional-Portfolio/static/css/main.926de688.css.map",
-    "main.2854ba6a.js.map": "/React-Professional-Portfolio/static/js/main.2854ba6a.js.map"
+    "main.9c8793f6.css.map": "/React-Professional-Portfolio/static/css/main.9c8793f6.css.map",
+    "main.c2ab11cf.js.map": "/React-Professional-Portfolio/static/js/main.c2ab11cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.926de688.css",
-    "static/js/main.2854ba6a.js"
+    "static/css/main.9c8793f6.css",
+    "static/js/main.c2ab11cf.js"
   ]
 }
