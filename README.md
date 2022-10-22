@@ -9,7 +9,8 @@
 
 ## 🚀 Project Details
 
-Utilizing React.js, Javascript, HTML, and CSS I developed my professional portfolio
+Utilizing React.js, Javascript, HTML, and CSS I developed my professional portfolio. 
+[Deployed Application](https://jeanette-ralph.github.io/React-Professional-Portfolio/)
 
 ## 🙋‍♀️ Any Questions?
 
